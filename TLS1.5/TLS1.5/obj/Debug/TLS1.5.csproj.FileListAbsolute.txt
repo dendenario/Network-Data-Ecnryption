@@ -1,0 +1,7 @@
+C:\Users\drudnitskiy\source\repos\TLS1.5\TLS1.5\obj\Debug\TLS1.5.csprojAssemblyReference.cache
+C:\Users\drudnitskiy\source\repos\TLS1.5\TLS1.5\obj\Debug\TLS1.5.csproj.CoreCompileInputs.cache
+C:\Users\drudnitskiy\source\repos\TLS1.5\TLS1.5\bin\Debug\TLS1.5.exe.config
+C:\Users\drudnitskiy\source\repos\TLS1.5\TLS1.5\bin\Debug\TLS1.5.exe
+C:\Users\drudnitskiy\source\repos\TLS1.5\TLS1.5\bin\Debug\TLS1.5.pdb
+C:\Users\drudnitskiy\source\repos\TLS1.5\TLS1.5\obj\Debug\TLS1.5.exe
+C:\Users\drudnitskiy\source\repos\TLS1.5\TLS1.5\obj\Debug\TLS1.5.pdb
